@@ -3,9 +3,7 @@
 
 ## 可以使用docker
 
-## 配置
-
-
+## nginx配置
 server
 {
         listen 80;
