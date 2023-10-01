@@ -4,6 +4,8 @@
 ## 可以使用docker
 
 ## 配置
+
+
 server
 {
         listen 80;
