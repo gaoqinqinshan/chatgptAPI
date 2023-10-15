@@ -2,7 +2,7 @@
 可以用nginx，直接在国内访问API
 
 ## 可以使用docker
-
+```
 ## nginx配置
 server
 {
@@ -49,3 +49,4 @@ server
 
 
     }
+```
